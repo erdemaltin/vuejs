@@ -12,8 +12,6 @@
 	"categories": ["Wein", "Art", "Pakete", "Art", "Aktionspakete", "Sale", "Kategorien im Sale", "Rotwein Pakete"],
 	"lastUpdateTime": 1518099000473,
 	"inStock": true,
-	"insertTime": 1514899645359,
-	"publishTime": 1514899645359,
 	"brand": "Unsere Selektion",
 	"params": {
 		"weight": "6 kg",
@@ -46,8 +44,6 @@
 	"categories": ["Champagner & Sekt", "Art", "Champagner"],
 	"lastUpdateTime": 1518099000624,
 	"inStock": true,
-	"insertTime": 1511520818423,
-	"publishTime": 1511520818423,
 	"brand": "Veuve Clicquot",
 	"params": {
 		"weight": "1 kg",
@@ -81,8 +77,6 @@
 	"categories": ["Wein", "Art", "Pakete", "Genießer-Pakete"],
 	"lastUpdateTime": 1518099000702,
 	"inStock": true,
-	"insertTime": 1517390747188,
-	"publishTime": 1517390747188,
 	"brand": "Unsere Selektion",
 	"params": {
 		"weight": "6 kg",
@@ -116,8 +110,6 @@
 	"categories": ["Wein", "Art", "Pakete", "Art", "Rotwein Pakete", "Sale", "Kategorien im Sale"],
 	"lastUpdateTime": 1518099000472,
 	"inStock": true,
-	"insertTime": 1512503620976,
-	"publishTime": 1512503620976,
 	"brand": "Unsere Selektion",
 	"params": {
 		"weight": "6 kg",
@@ -151,8 +143,6 @@
 	"categories": ["Wein", "Art", "Pakete", "Gemischte Pakete", "Sale", "Kategorien im Sale"],
 	"lastUpdateTime": 1518099000702,
 	"inStock": true,
-	"insertTime": 1517285302769,
-	"publishTime": 1517285302769,
 	"brand": "Unsere Selektion",
 	"params": {
 		"weight": "6 kg",
@@ -186,8 +176,6 @@
 	"categories": ["Wein", "Art", "Pakete", "Art", "Südafrika"],
 	"lastUpdateTime": 1518099000651,
 	"inStock": true,
-	"insertTime": 1511464668510,
-	"publishTime": 1511464668510,
 	"brand": "Bouchard Finlayson",
 	"params": {
 		"weight": "6 kg",
@@ -220,8 +208,6 @@
 	"categories": ["Wein", "Art", "Rotweine", "Land", "Italien", "Rebsorte", "Zinfandel / Primitivo"],
 	"lastUpdateTime": 1518099000506,
 	"inStock": true,
-	"insertTime": 1511396237710,
-	"publishTime": 1511396237710,
 	"brand": "Casa Vinicola Minini",
 	"params": {
 		"weight": "1 kg",
@@ -255,8 +241,6 @@
 	"categories": ["Wein", "Art", "Rotweine"],
 	"lastUpdateTime": 1518099000608,
 	"inStock": true,
-	"insertTime": 1511424119838,
-	"publishTime": 1511424119838,
 	"brand": "Peter Zemmer",
 	"params": {
 		"weight": "1 kg",
@@ -290,8 +274,6 @@
 	"categories": ["Wein", "Art", "Weißweine"],
 	"lastUpdateTime": 1518099000433,
 	"inStock": true,
-	"insertTime": 1511424906451,
-	"publishTime": 1511424906451,
 	"brand": "Peter Zemmer",
 	"params": {
 		"weight": "1 kg",
@@ -324,8 +306,6 @@
 	"categories": ["Champagner & Sekt", "Art", "Neue Welt Sekt", "Land", "Südafrika"],
 	"lastUpdateTime": 1518099000485,
 	"inStock": true,
-	"insertTime": 1511366679567,
-	"publishTime": 1511366679567,
 	"brand": "Du Toitskloof",
 	"params": {
 		"weight": "1 kg",
@@ -359,8 +339,6 @@
 	"categories": ["Wein", "Art", "Pakete", "Art", "Südafrika"],
 	"lastUpdateTime": 1518099000462,
 	"inStock": true,
-	"insertTime": 1511519979996,
-	"publishTime": 1511519979996,
 	"brand": "Doolhof",
 	"params": {
 		"weight": "6 kg",
@@ -393,8 +371,6 @@
 	"categories": ["Champagner & Sekt", "Art", "Neue Welt Sekt", "Land", "Südafrika", "Sekt"],
 	"lastUpdateTime": 1518099000568,
 	"inStock": true,
-	"insertTime": 1511417235938,
-	"publishTime": 1511417235938,
 	"brand": "Du Toitskloof",
 	"params": {
 		"weight": "1 kg",
@@ -427,8 +403,6 @@
 	"categories": ["Champagner & Sekt", "Art", "Methode Traditionelle", "Land", "Südafrika"],
 	"lastUpdateTime": 1518099000621,
 	"inStock": true,
-	"insertTime": 1511383537511,
-	"publishTime": 1511383537511,
 	"brand": "Pongrácz",
 	"params": {
 		"weight": "1 kg",
@@ -461,8 +435,6 @@
 	"categories": ["Wein", "Art", "Rotweine", "Land", "Italien", "Rebsorte", "Zinfandel / Primitivo", "Selektionen", "Empfehlungen", "Bestseller", "Geschmack", "Trocken"],
 	"lastUpdateTime": 1518099000658,
 	"inStock": true,
-	"insertTime": 1511374680073,
-	"publishTime": 1511374680073,
 	"brand": "Cantine Teanum",
 	"params": {
 		"weight": "1 kg",
@@ -495,8 +467,6 @@
 	"categories": ["Champagner & Sekt", "Art", "Sparkling Shiraz", "Land", "Australien"],
 	"lastUpdateTime": 1518099000534,
 	"inStock": true,
-	"insertTime": 1511439571665,
-	"publishTime": 1511439571665,
 	"brand": "McGuigan",
 	"params": {
 		"weight": "1 kg",
@@ -530,8 +500,6 @@
 	"categories": ["Wein", "Art", "Weißweine", "Land", "Neuseeland", "Marlborough"],
 	"lastUpdateTime": 1518099000571,
 	"inStock": true,
-	"insertTime": 1511430448179,
-	"publishTime": 1511430448179,
 	"brand": "Marisco",
 	"params": {
 		"weight": "1 kg",
@@ -565,8 +533,6 @@
 	"categories": ["Wein", "Art", "Rotweine", "Sale", "Selektionen", "Geschmack", "Halbtrocken", "Land", "Italien", "Rebsorte", "Zinfandel / Primitivo"],
 	"lastUpdateTime": 1518099000518,
 	"inStock": true,
-	"insertTime": 1511372427416,
-	"publishTime": 1511372427416,
 	"brand": "Doppio Passo",
 	"params": {
 		"weight": "1 kg",
@@ -599,8 +565,6 @@
 	"categories": ["Selektionen", "Weinbewerter", "Robert Parker", "Wein", "Art", "Rotweine", "Empfehlungen", "Best Bewertet", "Land", "Frankreich"],
 	"lastUpdateTime": 1518099000621,
 	"inStock": true,
-	"insertTime": 1511377004115,
-	"publishTime": 1511377004115,
 	"brand": "Château de Saint Cosme",
 	"params": {
 		"weight": "1 kg",
@@ -633,8 +597,6 @@
 	"categories": ["Wein", "Art", "Weißweine", "Land", "Südafrika"],
 	"lastUpdateTime": 1518099000571,
 	"inStock": true,
-	"insertTime": 1511378364753,
-	"publishTime": 1511378364753,
 	"brand": "Louisvale Wines",
 	"params": {
 		"weight": "1 kg",
@@ -667,8 +629,6 @@
 	"categories": ["Wein", "Art", "Weißweine", "Land", "Deutschland", "Rheingau"],
 	"lastUpdateTime": 1518099000602,
 	"inStock": true,
-	"insertTime": 1511428313029,
-	"publishTime": 1511428313029,
 	"brand": "Altenkirch",
 	"params": {
 		"weight": "1 kg",
@@ -702,8 +662,6 @@
 	"categories": ["Wein", "Art", "Pakete", "Art", "Südafrika", "Sale", "Kategorien im Sale"],
 	"lastUpdateTime": 1518099000476,
 	"inStock": true,
-	"insertTime": 1511369434293,
-	"publishTime": 1511369434293,
 	"brand": "Allesverloren Estate",
 	"params": {
 		"weight": "6 kg",
@@ -736,8 +694,6 @@
 	"categories": ["Wein", "Art", "Rotweine", "Land", "Südafrika", "Rebsorte", "Cabernet Sauvignon", "Robertson"],
 	"lastUpdateTime": 1518099000624,
 	"inStock": true,
-	"insertTime": 1511451857924,
-	"publishTime": 1511451857924,
 	"brand": "Excelsior Estate",
 	"params": {
 		"weight": "1 kg",
@@ -770,8 +726,6 @@
 	"categories": ["Champagner & Sekt", "Art", "Sekt Deutschland", "Land", "Deutschland"],
 	"lastUpdateTime": 1518099000418,
 	"inStock": true,
-	"insertTime": 1511384513683,
-	"publishTime": 1511384513683,
 	"brand": "Juliusspital",
 	"params": {
 		"weight": "1 kg",
@@ -804,8 +758,6 @@
 	"categories": ["Wein", "Art", "Rotweine", "Rebsorte", "Pinotage", "Land", "Südafrika", "Walker Bay"],
 	"lastUpdateTime": 1518099000592,
 	"inStock": true,
-	"insertTime": 1511520762995,
-	"publishTime": 1511520762995,
 	"brand": "Raka Wines",
 	"params": {
 		"weight": "1 kg",
@@ -838,8 +790,6 @@
 	"categories": ["Champagner & Sekt", "Art", "Sekt Deutschland", "Land", "Deutschland"],
 	"lastUpdateTime": 1518099000477,
 	"inStock": true,
-	"insertTime": 1511375637507,
-	"publishTime": 1511375637507,
 	"brand": "Kirsten",
 	"params": {
 		"weight": "1 kg",
@@ -873,8 +823,6 @@
 	"categories": ["Wein", "Art", "Rotweine", "Rebsorte", "Malbec"],
 	"lastUpdateTime": 1518099000660,
 	"inStock": true,
-	"insertTime": 1511523816287,
-	"publishTime": 1511523816287,
 	"brand": "Bodegas Callia",
 	"params": {
 		"weight": "1 kg",
@@ -907,8 +855,6 @@
 	"categories": ["Wein", "Art", "Rotweine"],
 	"lastUpdateTime": 1518099000704,
 	"inStock": true,
-	"insertTime": 1513173458657,
-	"publishTime": 1513173458657,
 	"brand": "Penfolds",
 	"params": {
 		"weight": "1 kg",
@@ -942,8 +888,6 @@
 	"categories": ["Wein", "Art", "Rotweine", "Land", "Südafrika", "Sale", "Kategorien im Sale"],
 	"lastUpdateTime": 1518099000647,
 	"inStock": true,
-	"insertTime": 1511365615016,
-	"publishTime": 1511365615016,
 	"brand": "Allesverloren Estate",
 	"params": {
 		"weight": "1 kg",
@@ -976,8 +920,6 @@
 	"categories": ["Wein", "Art", "Rotweine", "Land", "Südafrika"],
 	"lastUpdateTime": 1518099000689,
 	"inStock": true,
-	"insertTime": 1513947436623,
-	"publishTime": 1513947436623,
 	"brand": "Rickety Bridge",
 	"params": {
 		"weight": "1 kg",
@@ -1010,8 +952,6 @@
 	"categories": ["Wein", "Art", "Weißweine"],
 	"lastUpdateTime": 1518099000624,
 	"inStock": true,
-	"insertTime": 1511519418140,
-	"publishTime": 1511519418140,
 	"brand": "Balthasar Ress",
 	"params": {
 		"weight": "1 kg",
